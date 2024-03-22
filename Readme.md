@@ -4,4 +4,3 @@ https://github.com/mushir2004/Object-Detection-Model-Yolov4/assets/147324872/41b
 
 Output Video
 
-Uploading Myresults.mp4…
